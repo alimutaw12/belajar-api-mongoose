@@ -4,6 +4,7 @@
 	"dependencies": {
 		"body-parser": "^1.18.3",
 		"express": "*",
-		"mongoose": "*"
+		"mongoose": "*",
+		"mongoose-relationship": "^0.1.5"
 	}
 }
